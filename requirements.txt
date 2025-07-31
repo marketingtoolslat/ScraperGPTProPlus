@@ -1,0 +1,6 @@
+flask
+gradio
+playwright
+bs4
+gspread
+oauth2client
