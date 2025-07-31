@@ -1,1 +1,1 @@
-python3 dashboard_gradio.py
+python3 dashboard_visual.py
